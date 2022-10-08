@@ -1,11 +1,3 @@
- /*
-
- Name: Preeti Singh
-
- ID:1002013566
-
- */
-
 
 
 #include <sys/types.h>
